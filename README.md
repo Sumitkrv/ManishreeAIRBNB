@@ -47,6 +47,8 @@ Before launch, the owner should:
 
 This project is published publicly at https://manishree-residency-lucknow.deeploach33.chatgpt.site. Hosting-specific IDs are stored in .openai/hosting.json; keep the manifest with this source. The Site workflow handles source pushes, build packaging and deployment.
 
+For Vercel, `vercel.json` selects the Next.js framework and uses `npm run build:vercel` so Vercel builds the App Router app instead of the Cloudflare Worker output used by the Sites workflow. Set the Vercel project root to this repository's root and redeploy to restore `manibnb.vercel.app`.
+
 ## Visual asset provenance
 
 Images are self-hosted under public/images/ in hero, lifestyle and location folders. Four new generated WebP still lifes are optimized locally, alongside the initial generated linen mood image and an unchanged CC BY 2.5 photograph of Bara Imambara with visible attribution. No Instagram screenshots, Airbnb-hosted image URLs, guest photographs or unlicensed room images are included.
