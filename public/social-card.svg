@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#F8F0E7"/>
+  <circle cx="886" cy="315" r="230" stroke="#C87950" stroke-opacity=".35"/>
+  <circle cx="886" cy="315" r="209" stroke="#C87950" stroke-opacity=".2"/>
+  <image href="/images/brand/manishree-logo.png" x="811" y="240" width="150" height="150"/>
+  <text x="105" y="218" fill="#A65C39" font-family="Arial,sans-serif" font-size="17" letter-spacing="5">A PRIVATE HOME IN LUCKNOW</text>
+  <text x="100" y="328" fill="#31231F" font-family="Georgia,serif" font-size="95" font-style="italic">Manishree</text>
+  <text x="110" y="379" fill="#907C64" font-family="Arial,sans-serif" font-size="17" letter-spacing="9">RESIDENCY</text>
+  <path d="M110 420h166" stroke="#C87950" stroke-width="2"/>
+  <text x="110" y="466" fill="#6D5F55" font-family="Arial,sans-serif" font-size="20">Stay beautifully. Feel completely at home.</text>
+</svg>
